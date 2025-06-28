@@ -37,14 +37,6 @@ Por aqui, você vai encontrar projetos e experimentos onde eu coloco em prática
 
 Fique à vontade para explorar, dar um feedback, ou até mesmo um "star" se gostar do que vir! 😉
 
-Conecte-se comigo!
-    
-<a href="https://www.linkedin.com/in/helisonpaulo/"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" align="left" alt="linkedin" title="linkedin" width="30" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/helisonpaulo/"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" align="left" alt="instagram" title="instagram" width="30" alt="instagram"></a>
-
-
-<br/>
-
 ---
 
 ## Projetos em Destaque
@@ -56,3 +48,12 @@ Conecte-se comigo!
 ### Quer Contribuir?
 
 Se você tem alguma ideia, melhoria, ou só quer bater um papo sobre dados, fique à vontade para abrir uma *issue* ou *pull request*! Toda colaboração é super bem-vinda! 🤗
+
+---
+
+Conecte-se comigo!
+    
+<a href="https://www.linkedin.com/in/helisonpaulo/"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" align="left" alt="linkedin" title="linkedin" width="30" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/helisonpaulo/"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" align="left" alt="instagram" title="instagram" width="30" alt="instagram"></a>
+<br/>
+
